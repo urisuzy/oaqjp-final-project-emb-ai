@@ -1,4 +1,4 @@
-# Emotion Detector
+# Final Project
 
 An AI-based web application that detects emotions (anger, disgust, fear, joy, sadness) in text using the Watson NLP Emotion Predict service, and reports the dominant emotion.
 
